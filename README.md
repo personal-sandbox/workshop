@@ -1,12 +1,4 @@
 # workshop
 
-helloolle
-
-hejwkhf
-
-
-wut
-
-wowowo
-
-so we need to git commit and git push
+through codespace
+git pull -> git commit -a -> git push
