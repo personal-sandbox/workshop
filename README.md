@@ -10,3 +10,7 @@ git clone https://github.com/danniel02/CES-Device <insert_token_here>
 
 # Add repo to local config
 git remote add 3004-project https://github.com/danniel02/CES-Device.git
+
+
+#show file
+git ls-tree -r <branch_name>
